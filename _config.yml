@@ -1,0 +1,28 @@
+name: Shaun
+favicon: null
+layout_spectrum: 0.18368189805187285
+typography_spectrum: 0.31436869385652244
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.38022814015857875
+  lightness: 0.8204078229609877
+  saturation: 0.34927158593200147
+  rhythmicContrast: 0.22791527886874974
+purpose: []
